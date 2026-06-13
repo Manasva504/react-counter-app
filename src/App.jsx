@@ -44,6 +44,10 @@ function App() {
       </button>
 
       {count === 0 && <p>Counter is at zero.</p>}
+
+      <footer className="footer">
+  Designed & Developed by Manasva 
+</footer>
     </div>
   </div>
   );
